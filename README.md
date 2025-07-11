@@ -26,7 +26,7 @@ This project demonstrates an automated data engineering pipeline built on Micros
 │   └── sample_gold.csv             
 │
 ├── powerbi/
-│   └── powerbi_weather_map.png      
+│   └── Germany Weather Forecast (7 days).png      
 │
 ├── data_factory_visualization.png  
 └── README.md                         
