@@ -6,17 +6,15 @@ This project demonstrates an automated data engineering pipeline built on Micros
 
 ## Project Overview
 
-- Automated ingestion of daily weather forecast data
+- Automated ingestion of daily weather forecast api data
 - Medallion architecture with Bronze, Silver, and Gold layers
 - Parameterized notebooks with dynamic start and end dates
 - Daily automation using Microsoft Fabric Data Factory
 - Power BI integration for data exploration and visualization
-- Fully documented and structured for GitHub
 
 ## Folder Structure
 
 ```
-.
 ├── notebooks/
 │   ├── Bronze_Notebook.ipynb          
 │   ├── Silver_Notebook.ipynb          
@@ -48,7 +46,7 @@ The project uses a medallion architecture as follows:
 
 ### Silver Layer – Cleaned and Structured
 
-- Explodes daily arrays in the raw data
+- Explodes daily arrays in the raw data for daily updated weather data
 - Normalizes structure into columns:
   - city, latitude, longitude, date, temp_max, temp_min, temp_mean, rain_prob, weather_code
 - Saves results to the `Silver_Layer` table
@@ -79,9 +77,14 @@ The screenshot below illustrates the parameterized pipeline setup and notebook c
 
 The Gold Layer is connected to Power BI where the data is visualized using:
 
-- Map visualizations (Azure Map visual)
-- Line charts for temperature evolution
-- Bar charts for rain probability
+- **Interactive Slicer:** Select forecast dates to filter the data dynamically.
+- **Table View:** Displays city, date, weekday, temperature mean, rain probability, and weather description.
+- **Map Visualization:** Uses Azure Maps to show all German capital cities with pie charts representing:
+  - Average temperature (`temp_mean`)
+  - Rain probability (`rain_prob`)
+  - Min/Max temperature
+  - Most frequent weather description
+- **Color Encoding:** Each weekday is represented by a different color for intuitive filtering.
 
 An example map visualization is available under `powerbi/powerbi_weather_map.png`.
 
