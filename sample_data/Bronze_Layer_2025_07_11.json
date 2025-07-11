@@ -1,0 +1,1474 @@
+[
+    {
+        "latitude": 48.78,
+        "longitude": 9.18,
+        "generationtime_ms": 0.1380443572998047,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 255.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.9,
+            "windspeed": 9.8,
+            "winddirection": 324,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                25.0,
+                24.5,
+                29.4,
+                22.3,
+                24.2,
+                19.1,
+                23.3
+            ],
+            "temperature_2m_min": [
+                16.5,
+                15.6,
+                15.8,
+                15.4,
+                15.7,
+                15.3,
+                11.8
+            ],
+            "temperature_2m_mean": [
+                20.7,
+                20.6,
+                22.3,
+                19.2,
+                20.2,
+                16.7,
+                17.7
+            ],
+            "precipitation_probability_mean": [
+                2,
+                0,
+                3,
+                26,
+                7,
+                13,
+                17
+            ],
+            "weathercode": [
+                3,
+                80,
+                61,
+                95,
+                3,
+                63,
+                2
+            ]
+        },
+        "city": "Stuttgart"
+    },
+    {
+        "latitude": 48.14,
+        "longitude": 11.58,
+        "generationtime_ms": 0.14698505401611328,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 519.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 19.2,
+            "windspeed": 8.3,
+            "winddirection": 326,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                22.2,
+                23.1,
+                27.5,
+                21.8,
+                24.5,
+                19.4,
+                21.7
+            ],
+            "temperature_2m_min": [
+                15.5,
+                15.1,
+                15.0,
+                17.6,
+                16.2,
+                16.0,
+                13.0
+            ],
+            "temperature_2m_mean": [
+                18.7,
+                19.1,
+                21.3,
+                19.5,
+                20.2,
+                17.4,
+                16.9
+            ],
+            "precipitation_probability_mean": [
+                16,
+                1,
+                2,
+                33,
+                37,
+                17,
+                21
+            ],
+            "weathercode": [
+                80,
+                3,
+                3,
+                95,
+                3,
+                63,
+                3
+            ]
+        },
+        "city": "Munich"
+    },
+    {
+        "latitude": 52.52,
+        "longitude": 13.419998,
+        "generationtime_ms": 0.20205974578857422,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 38.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.6,
+            "windspeed": 17.1,
+            "winddirection": 309,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                23.4,
+                19.2,
+                21.5,
+                25.8,
+                24.7,
+                23.5,
+                20.4
+            ],
+            "temperature_2m_min": [
+                13.9,
+                15.4,
+                16.0,
+                15.8,
+                16.9,
+                15.0,
+                13.9
+            ],
+            "temperature_2m_mean": [
+                18.4,
+                16.9,
+                18.6,
+                20.9,
+                20.4,
+                18.4,
+                17.2
+            ],
+            "precipitation_probability_mean": [
+                22,
+                61,
+                58,
+                23,
+                26,
+                38,
+                31
+            ],
+            "weathercode": [
+                61,
+                95,
+                95,
+                2,
+                80,
+                61,
+                80
+            ]
+        },
+        "city": "Berlin"
+    },
+    {
+        "latitude": 52.38,
+        "longitude": 13.059999,
+        "generationtime_ms": 0.1583099365234375,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 30.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.8,
+            "windspeed": 17.3,
+            "winddirection": 293,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                23.5,
+                18.0,
+                21.7,
+                26.4,
+                24.8,
+                22.7,
+                20.8
+            ],
+            "temperature_2m_min": [
+                13.0,
+                15.0,
+                15.0,
+                15.5,
+                17.4,
+                14.6,
+                13.8
+            ],
+            "temperature_2m_mean": [
+                18.1,
+                16.3,
+                18.4,
+                21.0,
+                20.3,
+                18.0,
+                16.9
+            ],
+            "precipitation_probability_mean": [
+                9,
+                56,
+                52,
+                16,
+                23,
+                30,
+                32
+            ],
+            "weathercode": [
+                63,
+                80,
+                95,
+                3,
+                80,
+                61,
+                80
+            ]
+        },
+        "city": "Potsdam"
+    },
+    {
+        "latitude": 53.08,
+        "longitude": 8.799999,
+        "generationtime_ms": 0.16689300537109375,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 16.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 20.8,
+            "windspeed": 11.5,
+            "winddirection": 328,
+            "is_day": 1,
+            "weathercode": 2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                23.3,
+                19.5,
+                19.7,
+                25.5,
+                22.3,
+                18.2,
+                22.6
+            ],
+            "temperature_2m_min": [
+                14.8,
+                15.8,
+                16.0,
+                15.0,
+                16.6,
+                13.8,
+                14.2
+            ],
+            "temperature_2m_mean": [
+                18.6,
+                18.1,
+                17.8,
+                20.0,
+                19.2,
+                15.6,
+                18.1
+            ],
+            "precipitation_probability_mean": [
+                0,
+                13,
+                27,
+                10,
+                23,
+                28,
+                16
+            ],
+            "weathercode": [
+                3,
+                61,
+                95,
+                45,
+                3,
+                61,
+                3
+            ]
+        },
+        "city": "Bremen"
+    },
+    {
+        "latitude": 53.54,
+        "longitude": 10.0,
+        "generationtime_ms": 0.13828277587890625,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 27.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 20.5,
+            "windspeed": 10.9,
+            "winddirection": 304,
+            "is_day": 1,
+            "weathercode": 1
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.1,
+                21.5,
+                21.0,
+                23.0,
+                22.2,
+                20.6,
+                22.5
+            ],
+            "temperature_2m_min": [
+                13.8,
+                16.8,
+                16.2,
+                16.1,
+                16.8,
+                13.6,
+                14.8
+            ],
+            "temperature_2m_mean": [
+                18.5,
+                18.2,
+                18.1,
+                19.7,
+                19.3,
+                17.2,
+                18.3
+            ],
+            "precipitation_probability_mean": [
+                2,
+                13,
+                55,
+                21,
+                26,
+                24,
+                19
+            ],
+            "weathercode": [
+                80,
+                80,
+                95,
+                45,
+                3,
+                61,
+                3
+            ]
+        },
+        "city": "Hamburg"
+    },
+    {
+        "latitude": 50.08,
+        "longitude": 8.24,
+        "generationtime_ms": 0.1443624496459961,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 125.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 22.9,
+            "windspeed": 8.3,
+            "winddirection": 342,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                25.7,
+                25.0,
+                26.7,
+                26.9,
+                24.0,
+                18.3,
+                21.4
+            ],
+            "temperature_2m_min": [
+                17.0,
+                17.3,
+                17.8,
+                18.6,
+                16.9,
+                12.8,
+                12.0
+            ],
+            "temperature_2m_mean": [
+                20.9,
+                20.3,
+                21.7,
+                22.5,
+                20.1,
+                15.5,
+                16.6
+            ],
+            "precipitation_probability_mean": [
+                1,
+                4,
+                4,
+                17,
+                11,
+                20,
+                16
+            ],
+            "weathercode": [
+                3,
+                61,
+                3,
+                3,
+                80,
+                61,
+                3
+            ]
+        },
+        "city": "Wiesbaden"
+    },
+    {
+        "latitude": 53.64,
+        "longitude": 11.42,
+        "generationtime_ms": 0.133514404296875,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 54.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.4,
+            "windspeed": 16.7,
+            "winddirection": 323,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                22.9,
+                20.8,
+                20.8,
+                22.5,
+                23.5,
+                22.4,
+                23.2
+            ],
+            "temperature_2m_min": [
+                14.7,
+                16.9,
+                16.5,
+                16.2,
+                16.6,
+                14.0,
+                14.9
+            ],
+            "temperature_2m_mean": [
+                18.8,
+                18.1,
+                18.3,
+                19.3,
+                19.4,
+                17.9,
+                18.9
+            ],
+            "precipitation_probability_mean": [
+                4,
+                13,
+                54,
+                27,
+                26,
+                23,
+                20
+            ],
+            "weathercode": [
+                61,
+                80,
+                80,
+                45,
+                80,
+                3,
+                80
+            ]
+        },
+        "city": "Schwerin"
+    },
+    {
+        "latitude": 52.36,
+        "longitude": 9.74,
+        "generationtime_ms": 0.17309188842773438,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 56.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.1,
+            "windspeed": 10.9,
+            "winddirection": 314,
+            "is_day": 1,
+            "weathercode": 2
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.9,
+                20.2,
+                21.1,
+                26.3,
+                23.3,
+                18.4,
+                22.7
+            ],
+            "temperature_2m_min": [
+                15.4,
+                15.7,
+                15.0,
+                14.4,
+                17.8,
+                14.4,
+                13.7
+            ],
+            "temperature_2m_mean": [
+                19.5,
+                17.8,
+                17.5,
+                20.6,
+                19.8,
+                15.9,
+                18.0
+            ],
+            "precipitation_probability_mean": [
+                1,
+                20,
+                24,
+                8,
+                21,
+                27,
+                24
+            ],
+            "weathercode": [
+                61,
+                80,
+                61,
+                45,
+                3,
+                63,
+                3
+            ]
+        },
+        "city": "Hanover"
+    },
+    {
+        "latitude": 51.232,
+        "longitude": 6.786,
+        "generationtime_ms": 0.3142356872558594,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 52.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 20.4,
+            "windspeed": 9.7,
+            "winddirection": 36,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.9,
+                29.2,
+                24.2,
+                27.2,
+                23.3,
+                20.0,
+                24.0
+            ],
+            "temperature_2m_min": [
+                17.9,
+                17.7,
+                19.1,
+                16.6,
+                16.9,
+                15.9,
+                13.9
+            ],
+            "temperature_2m_mean": [
+                21.1,
+                22.9,
+                21.2,
+                21.3,
+                19.7,
+                17.4,
+                19.0
+            ],
+            "precipitation_probability_mean": [
+                7,
+                7,
+                25,
+                11,
+                14,
+                21,
+                5
+            ],
+            "weathercode": [
+                3,
+                3,
+                3,
+                51,
+                53,
+                63,
+                3
+            ]
+        },
+        "city": "D\u00fcsseldorf"
+    },
+    {
+        "latitude": 50.0,
+        "longitude": 8.279999,
+        "generationtime_ms": 0.19550323486328125,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 126.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 22.4,
+            "windspeed": 8.8,
+            "winddirection": 341,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                25.3,
+                25.2,
+                27.1,
+                27.0,
+                24.1,
+                19.0,
+                23.7
+            ],
+            "temperature_2m_min": [
+                16.7,
+                17.7,
+                17.9,
+                17.9,
+                16.6,
+                14.3,
+                13.6
+            ],
+            "temperature_2m_mean": [
+                20.9,
+                20.7,
+                22.0,
+                22.2,
+                20.0,
+                16.7,
+                18.6
+            ],
+            "precipitation_probability_mean": [
+                1,
+                3,
+                3,
+                14,
+                6,
+                20,
+                16
+            ],
+            "weathercode": [
+                3,
+                61,
+                3,
+                3,
+                80,
+                61,
+                3
+            ]
+        },
+        "city": "Mainz"
+    },
+    {
+        "latitude": 49.22,
+        "longitude": 6.9999995,
+        "generationtime_ms": 0.1442432403564453,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 207.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.7,
+            "windspeed": 8.8,
+            "winddirection": 12,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                25.2,
+                25.9,
+                27.0,
+                22.0,
+                22.6,
+                19.0,
+                24.3
+            ],
+            "temperature_2m_min": [
+                12.9,
+                12.1,
+                13.7,
+                15.9,
+                15.2,
+                14.6,
+                11.0
+            ],
+            "temperature_2m_mean": [
+                19.3,
+                19.4,
+                20.7,
+                18.8,
+                18.8,
+                16.5,
+                18.1
+            ],
+            "precipitation_probability_mean": [
+                0,
+                0,
+                0,
+                29,
+                6,
+                13,
+                11
+            ],
+            "weathercode": [
+                3,
+                3,
+                61,
+                95,
+                45,
+                61,
+                3
+            ]
+        },
+        "city": "Saarbr\u00fccken"
+    },
+    {
+        "latitude": 51.04,
+        "longitude": 13.74,
+        "generationtime_ms": 0.19288063049316406,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 117.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 21.6,
+            "windspeed": 12.0,
+            "winddirection": 309,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                23.8,
+                18.2,
+                23.2,
+                27.8,
+                24.1,
+                20.2,
+                17.4
+            ],
+            "temperature_2m_min": [
+                14.8,
+                15.5,
+                15.7,
+                15.4,
+                18.1,
+                15.0,
+                13.3
+            ],
+            "temperature_2m_mean": [
+                19.6,
+                16.5,
+                18.9,
+                21.6,
+                20.6,
+                17.1,
+                15.4
+            ],
+            "precipitation_probability_mean": [
+                16,
+                72,
+                49,
+                10,
+                29,
+                34,
+                32
+            ],
+            "weathercode": [
+                61,
+                80,
+                80,
+                3,
+                80,
+                63,
+                61
+            ]
+        },
+        "city": "Dresden"
+    },
+    {
+        "latitude": 52.14,
+        "longitude": 11.639999,
+        "generationtime_ms": 0.1341104507446289,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 64.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 22.5,
+            "windspeed": 13.5,
+            "winddirection": 316,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.7,
+                18.4,
+                21.4,
+                26.8,
+                23.7,
+                21.1,
+                21.2
+            ],
+            "temperature_2m_min": [
+                14.2,
+                16.4,
+                15.0,
+                14.5,
+                17.6,
+                14.0,
+                13.5
+            ],
+            "temperature_2m_mean": [
+                19.9,
+                17.3,
+                17.9,
+                21.1,
+                20.5,
+                16.8,
+                17.2
+            ],
+            "precipitation_probability_mean": [
+                6,
+                52,
+                30,
+                5,
+                21,
+                30,
+                27
+            ],
+            "weathercode": [
+                61,
+                95,
+                61,
+                3,
+                95,
+                61,
+                61
+            ]
+        },
+        "city": "Magdeburg"
+    },
+    {
+        "latitude": 54.32,
+        "longitude": 10.139999,
+        "generationtime_ms": 0.13840198516845703,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 24.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 20.1,
+            "windspeed": 10.2,
+            "winddirection": 309,
+            "is_day": 1,
+            "weathercode": 1
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.5,
+                20.4,
+                19.8,
+                22.7,
+                21.4,
+                21.3,
+                22.9
+            ],
+            "temperature_2m_min": [
+                13.0,
+                16.8,
+                16.8,
+                16.5,
+                14.1,
+                11.2,
+                15.5
+            ],
+            "temperature_2m_mean": [
+                18.6,
+                18.3,
+                18.0,
+                19.1,
+                17.8,
+                16.6,
+                18.8
+            ],
+            "precipitation_probability_mean": [
+                1,
+                9,
+                32,
+                36,
+                25,
+                25,
+                21
+            ],
+            "weathercode": [
+                61,
+                80,
+                80,
+                80,
+                80,
+                61,
+                3
+            ]
+        },
+        "city": "Kiel"
+    },
+    {
+        "latitude": 50.98,
+        "longitude": 11.039999,
+        "generationtime_ms": 0.17261505126953125,
+        "utc_offset_seconds": 7200,
+        "timezone": "Europe/Berlin",
+        "timezone_abbreviation": "GMT+2",
+        "elevation": 195.0,
+        "current_weather_units": {
+            "time": "iso8601",
+            "interval": "seconds",
+            "temperature": "\u00b0C",
+            "windspeed": "km/h",
+            "winddirection": "\u00b0",
+            "is_day": "",
+            "weathercode": "wmo code"
+        },
+        "current_weather": {
+            "time": "2025-07-11T12:00",
+            "interval": 900,
+            "temperature": 20.5,
+            "windspeed": 8.2,
+            "winddirection": 293,
+            "is_day": 1,
+            "weathercode": 3
+        },
+        "daily_units": {
+            "time": "iso8601",
+            "temperature_2m_max": "\u00b0C",
+            "temperature_2m_min": "\u00b0C",
+            "temperature_2m_mean": "\u00b0C",
+            "precipitation_probability_mean": "%",
+            "weathercode": "wmo code"
+        },
+        "daily": {
+            "time": [
+                "2025-07-11",
+                "2025-07-12",
+                "2025-07-13",
+                "2025-07-14",
+                "2025-07-15",
+                "2025-07-16",
+                "2025-07-17"
+            ],
+            "temperature_2m_max": [
+                24.1,
+                19.3,
+                24.4,
+                27.2,
+                23.2,
+                16.9,
+                19.1
+            ],
+            "temperature_2m_min": [
+                16.0,
+                15.9,
+                15.8,
+                14.5,
+                16.6,
+                13.9,
+                12.7
+            ],
+            "temperature_2m_mean": [
+                19.6,
+                17.2,
+                19.6,
+                21.1,
+                19.7,
+                15.3,
+                15.6
+            ],
+            "precipitation_probability_mean": [
+                4,
+                43,
+                25,
+                8,
+                24,
+                22,
+                24
+            ],
+            "weathercode": [
+                80,
+                61,
+                95,
+                3,
+                80,
+                61,
+                61
+            ]
+        },
+        "city": "Erfurt"
+    }
+]
